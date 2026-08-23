@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHrigqblyHs=",
+  "success": true,
+  "projectFilePath": "/home/wildchildx/Work/Projects/GameStore/GameStore.Api/GameStore.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/wildchildx/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.19/microsoft.aspnetcore.app.ref.9.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
